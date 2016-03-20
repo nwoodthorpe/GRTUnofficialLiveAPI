@@ -13,7 +13,7 @@ To make a query, send a GET request to the following URL:
 Replace `xxxx` with a GRT stop ID. Find the stop ID either:
 
 1. On the bus stop sign
-2. On the transit schedule located [here](http://www.grt.ca/en/routesSchedules/busschedule.asp).
+2. On the transit schedules located [here](http://www.grt.ca/en/routesSchedules/busschedule.asp).
 
 ##Response
 Server response is in JSON format.
@@ -27,7 +27,7 @@ Response will either be an ERROR object or a DATA object. Both types are fully d
 
 GRT Stop ID.
 
-Must be a valid ID. Error returned if ID is valid or if no stop with ID exists.
+Must be a valid ID. Error returned if ID is invalid or if no stop with ID exists.
 
 Examples:
 
