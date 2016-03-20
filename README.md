@@ -138,3 +138,5 @@ If an error is thrown, an object will be returned of the following form:
 Please don't abuse this API. Every request and the accompanying IP is logged. If I believe an IP is abusing the service, it may be blacklisted.
 
 This API is not affiliated with Grand River Transit or The City of Waterloo in any way. 
+
+Make a pull request if you want to add more examples, or improve/ammend the documentation.
