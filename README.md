@@ -14,6 +14,9 @@ Replace `xxxx` with a GRT stop ID. Find the stop ID either:
 
 1. On the bus stop sign
 2. On the transit schedules located [here](http://www.grt.ca/en/routesSchedules/busschedule.asp).
+3. 
+##Change Log
+See CHANGELOG.md
 
 ##Response
 Server response is in JSON format.
