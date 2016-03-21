@@ -142,4 +142,4 @@ Please don't abuse this API. Every request and the accompanying IP is logged. If
 
 This API is not affiliated with Grand River Transit or The City of Waterloo in any way. 
 
-Make a pull request if you want to add more examples, or improve/ammend the documentation.
+Make a pull request if you want to add more examples, or improve/amend the documentation.
