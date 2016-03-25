@@ -2,6 +2,15 @@
 This is where I'll document all updates and changes. Version numbers will be {major}.{minor}. A minor update adds functionality or corrects a mistake, but **DOES NOT** break compatability with programs written on earlier minor releases of the same major version. A major version shift indicates a significant functionality change, programs written on earlier major versions of the API aren't guaranteed to be compatible with later major versions.
 
 Minor updates are added to the current API. Major updates are pushed to a new file, with the new file specified on the major update entry.
+
+##[2.0] 03/25/2016
+
+####Added
+- HTTP response codes now returned on errors.
+
+###Changed
+- Successful response array is now wrapped in an object.
+
 ##[1.1] 03/21/2016
 
 ####Changed
@@ -9,4 +18,4 @@ Minor updates are added to the current API. Major updates are pushed to a new fi
 
 ##[1.0] 03/20/2016
 
-####Initial Release - http://nwoodthorpe.com/grt/livetime.php
+####Initial Release
