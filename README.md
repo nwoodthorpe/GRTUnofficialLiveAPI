@@ -8,7 +8,7 @@ See working examples in `examples/`.
 Version specific documentation is available in the associated directory.
 
 ##How to Use
-To make a query, send a GET request to the following API URL. The current URL (Version 2.0) is:
+To make a query, send a GET request to the API URL. The current URL (Version 2.0) is:
 `http://nwoodthorpe.com/grt/V2/livetime.php?stop=xxxx`
 
 Replace `xxxx` with a GRT stop ID. Find the stop ID either:
