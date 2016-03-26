@@ -8,7 +8,7 @@ Minor updates are added to the current API. Major updates are pushed to a new fi
 ####Added
 - HTTP response codes now returned on errors.
 
-###Changed
+####Changed
 - Successful response array is now wrapped in an object.
 
 ##[1.1] 03/21/2016
