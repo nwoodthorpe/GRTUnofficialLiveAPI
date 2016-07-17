@@ -7,7 +7,7 @@ See working examples in `examples/`.
 
 Version specific documentation is available in the associated directory.
 
-Over 5 million API requests to date!
+Over 10 million API requests to date!
 
 ##How to Use
 To make a query, send a GET request to the API URL. The current URL (Version 2.0) is:
